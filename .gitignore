@@ -29,3 +29,23 @@ target
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 bin
+
+/spring-boot-2-jpa-spring-data-rest
+/spring-boot-2-jpa-with-hibernate-and-h2
+/spring-boot-2-myBatis-with-h2
+/spring-boot-2-rest-service-basic
+/spring-boot-2-rest-service-content-negotiation
+/spring-boot-2-rest-service-exception-handling
+/spring-boot-2-rest-service-filtering
+/spring-boot-2-rest-service-validation
+/spring-boot-2-rest-service-versioning
+/spring-boot-2-rest-service-with-hateoas
+/spring-boot-2-rest-service-with-swagger
+/spring-boot-basic-microservice
+/spring-boot-rest-services-with-unit-and-integration-tests
+/spring-boot-rest-services
+/spring-boot-tutorial-basics-configuration
+/spring-boot-tutorial-basics
+/spring-boot-tutorial-soap-web-services
+#/spring-boot-web-application-bootstrap-jquery
+/spring-boot-web-application
