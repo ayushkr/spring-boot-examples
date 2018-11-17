@@ -1,0 +1,268 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Debug (Launch)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SpringBoot2JdbcWithH2Application<spring-boot-2-jdbc-with-h2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.in28minutes.springboot.jdbc.h2.example.SpringBoot2JdbcWithH2Application",
+            "args": "",
+            "projectName": "spring-boot-2-jdbc-with-h2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SpringBoot2JPAWithSpringDataRestApplication<spring-boot-2-jpa-spring-data-rest>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.in28minutes.springboot.jpa.spring.data.rest.example.SpringBoot2JPAWithSpringDataRestApplication",
+            "args": "",
+            "projectName": "spring-boot-2-jpa-spring-data-rest"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SpringBoot2JPAWithHibernateAndH2Application<spring-boot-2-jpa-with-hibernate-and-h2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.in28minutes.springboot.jpa.hibernate.h2.example.SpringBoot2JPAWithHibernateAndH2Application",
+            "args": "",
+            "projectName": "spring-boot-2-jpa-with-hibernate-and-h2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SpringBoot2MyBatisWithH2Application<spring-boot-2-myBatis-with-h2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.in28minutes.springboot.mybatis.h2.example.SpringBoot2MyBatisWithH2Application",
+            "args": "",
+            "projectName": "spring-boot-2-myBatis-with-h2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SpringBoot2RestServiceApplication<spring-boot-2-rest-service-basic>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.in28minutes.springboot.rest.example.SpringBoot2RestServiceApplication",
+            "args": "",
+            "projectName": "spring-boot-2-rest-service-basic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SpringBoot2RestServiceApplication<spring-boot-2-rest-service-content-negotiation>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.in28minutes.springboot.rest.example.SpringBoot2RestServiceApplication",
+            "args": "",
+            "projectName": "spring-boot-2-rest-service-content-negotiation"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SpringBoot2RestServiceApplication<spring-boot-2-rest-service-exception-handling>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.in28minutes.springboot.rest.example.SpringBoot2RestServiceApplication",
+            "args": "",
+            "projectName": "spring-boot-2-rest-service-exception-handling"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SpringBoot2RestServiceApplication<spring-boot-2-rest-service-filtering>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.in28minutes.springboot.rest.example.SpringBoot2RestServiceApplication",
+            "args": "",
+            "projectName": "spring-boot-2-rest-service-filtering"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SpringBoot2RestServiceApplication<spring-boot-2-rest-service-hateoas>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.in28minutes.springboot.rest.example.SpringBoot2RestServiceApplication",
+            "args": "",
+            "projectName": "spring-boot-2-rest-service-hateoas"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SpringBoot2RestServiceApplication<spring-boot-2-rest-service-swagger>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.in28minutes.springboot.rest.example.SpringBoot2RestServiceApplication",
+            "args": "",
+            "projectName": "spring-boot-2-rest-service-swagger"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SpringBoot2RestServiceApplication<spring-boot-2-rest-service-validation>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.in28minutes.springboot.rest.example.SpringBoot2RestServiceApplication",
+            "args": "",
+            "projectName": "spring-boot-2-rest-service-validation"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SpringBoot2RestServiceApplication<spring-boot-2-rest-service-versioning>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.in28minutes.springboot.rest.example.SpringBoot2RestServiceApplication",
+            "args": "",
+            "projectName": "spring-boot-2-rest-service-versioning"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SpringBootMicroserviceCurrencyConversionApplication<spring-boot-microservice-currency-conversion>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.in28minutes.springboot.microservice.example.currencyconversion.SpringBootMicroserviceCurrencyConversionApplication",
+            "args": "",
+            "projectName": "spring-boot-microservice-currency-conversion"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SpringBootMicroserviceEurekaNamingServerApplication<spring-boot-microservice-eureka-naming-server>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.in28minutes.springboot.microservice.eureka.naming.server.SpringBootMicroserviceEurekaNamingServerApplication",
+            "args": "",
+            "projectName": "spring-boot-microservice-eureka-naming-server"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SpringBootMicroserviceForexServiceApplication<spring-boot-microservice-forex-service>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.in28minutes.springboot.microservice.example.forex.SpringBootMicroserviceForexServiceApplication",
+            "args": "",
+            "projectName": "spring-boot-microservice-forex-service"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StudentApplication<spring-boot-rest-services-all-examples-for-springboottutorial.com>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.in28minutes.springboot.StudentApplication",
+            "args": "",
+            "projectName": "spring-boot-rest-services-all-examples-for-springboottutorial.com"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SpringBootTutorialBasicsConfigurationApplication<spring-boot-tutorial-basics-configuration>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.in28minutes.springboot.tutorial.basics.application.configuration.SpringBootTutorialBasicsConfigurationApplication",
+            "args": "",
+            "projectName": "spring-boot-tutorial-basics-configuration"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SpringBootTutorialBasicsApplication<spring-boot-tutorial-basics>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.in28minutes.springboot.tutorial.basics.example.SpringBootTutorialBasicsApplication",
+            "args": "",
+            "projectName": "spring-boot-tutorial-basics"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SpringBootTutorialSoapWebServicesApplication<spring-boot-tutorial-soap-web-services>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.in28minutes.springboot.soap.web.services.example.SpringBootTutorialSoapWebServicesApplication",
+            "args": "",
+            "projectName": "spring-boot-tutorial-soap-web-services"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SpringBootWebApplicationBootstrapJqueryApplication<spring-boot-web-application-bootstrap-jquery>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.in28minutes.springboot.tutorial.basics.application.configuration.SpringBootWebApplicationBootstrapJqueryApplication",
+            "args": "",
+            "projectName": "spring-boot-web-application-bootstrap-jquery"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StudentServicesApplication<student-services-security>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.in28minutes.springboot.StudentServicesApplication",
+            "args": "",
+            "projectName": "student-services-security"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StudentServicesApplication<student-services>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.in28minutes.springboot.StudentServicesApplication",
+            "args": "",
+            "projectName": "student-services"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Attach)",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": "<debug port of remote debuggee>"
+        }
+    ]
+}
